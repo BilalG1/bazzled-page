@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-00ba7d74"],{"423c":function(n,o,e){"use strict";e("e1f7")},bb99:function(n,o,e){"use strict";e.r(o);var c=e("7a23"),t={class:"page-not-found"};function u(n,o){return Object(c["u"])(),Object(c["g"])("div",t," Error 404 : The page you are looking for cannot be found ")}e("423c");const r={};r.render=u;o["default"]=r},e1f7:function(n,o,e){}}]);
+//# sourceMappingURL=chunk-00ba7d74.7956fcc3.js.map
